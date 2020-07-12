@@ -1,7 +1,6 @@
 ## React Dark Mode example
 
-This is a simple "Dark Mode" of react web app that was bootstrapped with [Create React App](https://github.
-com/facebook/create-react-app).
+This is a simple "Dark Mode" of react web app that was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `yarn start`
 
